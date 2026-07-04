@@ -93,7 +93,7 @@ They are built using **Microservices Architecture**.
 
 **Online Boutique** is composed of 11 microservices written in different languages that talk to each other over gRPC.
 
-![image.png](docs/images/Architecture01.png)
+![image.png](assets/architecture.png)
 
 | **Service** | **Language** | **Description** |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ They are built using **Microservices Architecture**.
 
 Screenshots:
 
-![image.png](docs/images/Screenshot01.png)
+![image.png](assets/gitops.gif)
 
 ---
 
