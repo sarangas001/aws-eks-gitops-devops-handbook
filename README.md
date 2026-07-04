@@ -5,8 +5,8 @@
 
 <img src="./assets/architecture.png" alt="Architecture" width="900"/>
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/aws-devops-handbook?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/aws-devops-handbook?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/saranga001/aws-devops-handbook?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saranga001/aws-devops-handbook?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-EKS-orange?style=for-the-badge&logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
