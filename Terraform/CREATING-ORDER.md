@@ -14,3 +14,19 @@
 3. Then go to project and in terraform file,  hit the `terraform init` 
 4. Then hit the `terraform plan`
 5. then hit the `terraform apply`
+
+-- 
+# See the aws account what resources are created
+
+* After hit the `terraform apply` its will see the pem keys
+
+1. access to the bastion public ip -> 
+```sh
+    ssh -i bastion-key.pem ubuntu@<publi-ip>
+```
+
+```sh
+    sudo apt update
+```
+
+2. Please follow the step from the Set Up Terrform Report Backend(Optional) in README.md file
